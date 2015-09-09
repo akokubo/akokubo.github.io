@@ -1,0 +1,11 @@
+# Site settings
+title: 小久保 温のWebサイト
+email: kokubo@aomori-u.ac.jp
+description: ふぃじっくす、こんぴゅーた、えすえふ、すぴりちゅある、まいんど
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+twitter_username: akokubo
+github_username:  akokubo
+
+# Build settings
+markdown: kramdown
