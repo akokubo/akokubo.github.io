@@ -1,0 +1,14 @@
+# Author details
+#
+# 1. Edit information below
+# 2. Change site author in config.yml
+# 3. Change default post/page authors in config.yml
+#
+# Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
+akokubo: # replace this with your info
+  name: "小久保 温"
+  siterole: "webmaster, developer, copywriter, designer"
+  uri: http://www.dma.aoba.sendai.jp/~acchan/
+  email: "kokubo@aomori-u.ac.jp"
+  twitter: "@akokubo"
+# you can add more authors here
