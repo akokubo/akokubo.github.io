@@ -9,6 +9,16 @@
 - title: "教育研究"
   url: "/activities/"
   side: left
+  dropdown:
+  - title: 取組概要
+    url: "/activities/summaries/"
+  - title: 著書・訳書
+    url: "/activities/books/"
+  - title: 論文
+    url: "/activities/articles/"
+  - title: 口頭発表
+    url: "/activities/oral-presentations/"
+
 
 # - title: "Templates"
 #   url: "/design/"

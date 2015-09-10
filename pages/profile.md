@@ -17,13 +17,13 @@ header:
 * 物理学: 原子核・素粒子理論
 
 ## 学会・研究会
-* 日本物理学会
-* 情報処理学会
-* 日本脱カルト協会
+* [日本物理学会](http://www.jps.or.jp/)
+* [情報処理学会](https://www.ipsj.or.jp/)
+* [日本脱カルト協会](http://www.jscpr.org/)
 
 ## 所属
 
-青森大学 ソフトウェア情報学部 ソフトウェア情報学科 准教授  
+[青森大学](http://www.aomori-u.ac.jp/) ソフトウェア情報学部 ソフトウェア情報学科 准教授  
 Dept. of Soft. Info. Tech., Aomori Univ.
 
 ## 学歴
