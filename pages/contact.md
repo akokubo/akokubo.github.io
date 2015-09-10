@@ -5,6 +5,8 @@ permalink: "/contact/"
 header:
     image_fullwidth: "header_unsplash_03.jpg"
 ---
+![研究]({{ site.urlimg }}/hakkoda.jpg)
+
 〒030-0943 青森県 青森市 幸畑 2-3-1  
 青森大学 ソフトウェア情報学部 ソフトウェア情報学科  
 小久保 温  

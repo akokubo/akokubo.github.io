@@ -6,6 +6,7 @@ breadcrumb: true
 header:
     image_fullwidth: "header_unsplash_02.jpg"
 ---
+![触れる絵画]({{ site.urlimg }}/touch_arts.jpg)
 
 * 小学生の自然観察記録をWeb公開するための、Web+データベース+地図アプリケーションの開発。クラウドPaaSのHeroku上で運用
 * 学生の自己管理のためのゲーミフィケーションのしくみを取り入れたWebアプリケーション(APIを通じてスマートデバイスアプリと連携、スマートフォン向けWebユーザーインターフェイスの提供)

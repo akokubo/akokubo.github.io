@@ -6,10 +6,10 @@ breadcrumb: true
 header:
     image_fullwidth: "header_unsplash_02.jpg"
 ---
+![研究]({{ site.urlimg }}/study.jpg)
 
 * [これまでの取り組みの概要](summaries/)
 * [著書・訳書](books/)
 * [論文](articles/)
 * [口頭発表](oral-presentations/)
 
-![研究]({{ site.urlimg }}/study.jpg){:width="250px"}
