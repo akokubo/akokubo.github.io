@@ -32,5 +32,5 @@ header:
 
 ## 訳書
 
-* ロバート・Ｔ・キャロル 著、日本語版編集委員 小内亨・菊池聡・菊池誠・高橋昌一郎・皆神龍太郎、小久保温・高橋信夫・長澤裕・福岡洋一 訳、『懐疑論者の事典 上』、楽工社、2008年 (Robert Todd Carroll, "The Skeptic's Dictionary: A Collection of Strange Beliefs, Amusing Deceptions, and Dangerous Delusions", John Wiley & Sons, 2003)
-* ロバート・Ｔ・キャロル 著、日本語版編集委員 小内亨・菊池聡・菊池誠・高橋昌一郎・皆神龍太郎、小久保温・高橋信夫・長澤裕・福岡洋一 訳、『懐疑論者の事典 下』、楽工社、2008年 (Robert Todd Carroll, "The Skeptic's Dictionary: A Collection of Strange Beliefs, Amusing Deceptions, and Dangerous Delusions", John Wiley & Sons, 2003)
+* ロバート・Ｔ・キャロル 著、日本語版編集委員 小内 亨・菊池 聡・菊池 誠・高橋 昌一郎・皆神 龍太郎、小久保 温・高橋 信夫・長澤 裕・福岡 洋一 訳、『懐疑論者の事典 上』、楽工社、2008年 (Robert Todd Carroll, "The Skeptic's Dictionary: A Collection of Strange Beliefs, Amusing Deceptions, and Dangerous Delusions", John Wiley & Sons, 2003)
+* ロバート・Ｔ・キャロル 著、日本語版編集委員 小内 亨・菊池 聡・菊池 誠・高橋 昌一郎・皆神 龍太郎、小久保 温・高橋 信夫・長澤 裕・福岡 洋一 訳、『懐疑論者の事典 下』、楽工社、2008年 (Robert Todd Carroll, "The Skeptic's Dictionary: A Collection of Strange Beliefs, Amusing Deceptions, and Dangerous Delusions", John Wiley & Sons, 2003)
