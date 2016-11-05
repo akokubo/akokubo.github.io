@@ -1,3 +1,8 @@
+- name: GitHub
+  url: http://github.com/akokubo
+  class: icon-github
+  title: 'コードいろいろ'
+
 # - name: YouTube
 #   url: http://www.youtube.com/PhlowMedia
 #   class: icon-youtube
@@ -8,8 +13,18 @@
   class: icon-twitter
   title: "Twitterでこくぼあつしの今を"
 
+# - name: Mixcloud
+#   url: http://www.mixcloud.com/phlow/
+#   class: icon-cloud
+#   title: "Mixe, was sonst?"
+
+# - name: Phlow YouTube Google+
+#   url: https://plus.google.com/u/0/+Phlow
+#   class: icon-googleplus
+#   title: "YouTube Google+"
+
 - name: Facebook
-  url: https://www.facebook.com/atsushi.kokubo.77
+  url: https://www.facebook.com/100002382355446
   class: icon-facebook
   title: "リアルなお知り合いの方は"
 
@@ -17,11 +32,6 @@
 #   url: http://soundcloud.com/phlow
 #   class: icon-soundcloud
 #   title: "Sounds und Downloads und mehr"
-
-- name: GitHub
-  url: http://github.com/akokubo
-  class: icon-github
-  title: 'コードいろいろ'
 
 # - name: Instagram
 #   url: http://instagram.com/phlowmedia
@@ -33,12 +43,9 @@
 #   class: icon-pinterest
 #   title: "Bilder, Fotos, Illustrationen, Grafiken sammeln..."
 
-# - name: Mixcloud
-#   url: http://www.mixcloud.com/phlow/
-#   class: icon-cloud
-#   title: "Mixe, was sonst?"
+
 
 # - name: Xing
-#   url: https://www.xing.com/profile/Moritzmo_Sauer
+#   url: https://www.xing.com/profile/
 #   class: icon-xing
 #   title: Xing Profil

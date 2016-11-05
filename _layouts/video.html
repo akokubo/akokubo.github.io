@@ -8,7 +8,6 @@ format: video
 			<div class="flex-video">
 				{{ page.iframe}}
 			</div>
-
 			<div class="row">
 				<div class="medium-offset-2 medium-8 end columns">
 					<header>
@@ -28,7 +27,7 @@ format: video
 					
 					{{ content }}
 					{% if page.show_meta == true %}
-					{% include meta_information %}
+					{% include _meta_information.html %}
 					{% endif %}
 				</div><!-- /.medium-8.columns -->
 			</div><!-- /.row -->
