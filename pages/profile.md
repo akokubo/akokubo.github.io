@@ -23,8 +23,8 @@ header:
 
 ## 所属
 
-[青森大学](http://www.aomori-u.ac.jp/) ソフトウェア情報学部 ソフトウェア情報学科 准教授  
-Dept. of Soft. Info. Tech., Aomori Univ.
+[八戸工業大学](http://www.hi-tech.ac.jp/) 工学部 [システム情報工学科](http://www.info.hi-tech.ac.jp/) 教授  
+Dept. of Sys. & Info. Eng., Hachinohe Inst. of Tech.
 
 ## 学歴
 
@@ -50,6 +50,7 @@ Dept. of Soft. Info. Tech., Aomori Univ.
 | 平成9年(1997年)	 4月 | 青森大学 工学部 情報システム工学科 助手 |
 | 平成16年(2004年) 4月 | 青森大学 ソフトウェア情報学部 ソフトウェア情報学科 講師 |
 | 平成21年(2009年) 4月 | 青森大学 ソフトウェア情報学部 ソフトウェア情報学科 准教授 |
+| 平成29年(2017年) 4月 | 八戸工業大学 工学部 システム情報工学科 教授 |
 
 ## 資格
 

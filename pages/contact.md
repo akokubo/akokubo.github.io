@@ -7,16 +7,14 @@ header:
 ---
 ![研究]({{ site.urlimg }}/hakkoda.jpg)
 
-〒030-0943 青森県 青森市 幸畑 2-3-1  
-青森大学 ソフトウェア情報学部 ソフトウェア情報学科  
+〒031-8501 青森県八戸市妙字大開88-1  
+八戸工業大学 工学部 システム情報工学科  
 小久保 温  
-TEL: 017-738-2001(青森大学代表)  
-FAX: 017-738-2030(青森大学代表)  
-e-mail: kokubo@aomori-u.ac.jp
+TEL: 0178-25-3111(八戸工業大学代表)  
+e-mail: kokubo@hi-tech.ac.jp
 
 Atsushi Kokubo, Ph.D.,  
-Dept. of Soft. Info. Tech., Aomori Univ.,  
-Koubata 2-3-1, Aomori 030-0943, Japan.  
-TEL:+81-17-738-2001(Aomori Univ.)  
-FAX:+81-17-738-2030(Aomori Univ.)  
-e-mail: kokubo@aomori-u.ac.jp
+Dept. of Sys. & Info. Eng., Hachinohe Inst. of Tech.,  
+88-1 Ohbiraki, Myo, Hachinohe, Aomori 031-8501, Japan.  
+TEL:+81-178-25-8111(Hachinohe Inst. of Tech.)  
+e-mail: kokubo@hi-tech.ac.jp
