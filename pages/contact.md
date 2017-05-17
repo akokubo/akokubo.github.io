@@ -5,7 +5,7 @@ permalink: "/contact/"
 header:
     image_fullwidth: "header_unsplash_03.jpg"
 ---
-![研究]({{ site.urlimg }}/hakkoda.jpg)
+![研究]({{ site.urlimg }}/kabushima.jpg)
 
 〒031-8501 青森県八戸市妙字大開88-1  
 八戸工業大学 工学部 システム情報工学科  

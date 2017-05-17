@@ -20,7 +20,7 @@ widget2:
 widget3:
   title: "連絡先"
   url: '/contact/'
-  image: aomori_univ_winter.jpg
+  image: hi_tech_spring.jpg
   text: '連絡先はこちら'
 permalink: /index.html
 ---
