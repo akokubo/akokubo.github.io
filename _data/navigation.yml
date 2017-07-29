@@ -80,6 +80,10 @@
   - title: "ブログアーカイブ"
     url: "/blog/archive/"
 
+- title: Python勉強会@HACHINOHE
+  url: "/python-study-group-hachinohe/"
+  side: left
+
 - title: "検索"
   url: "/search/"
   side: right
