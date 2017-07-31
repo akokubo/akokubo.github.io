@@ -10,6 +10,8 @@ header:
 ## 第1回
 2017年7月29日(土) 八戸ブックセンター
 
-* [スライド00](/pages/python-study-group-hachinohe/Python-Study-Group-HACHINOHE-00.pdf)
-* [スライド01](/pages/python-study-group-hachinohe/Python-Study-Group-HACHINOHE-01.pdf)
-* [スライド02](/pages/python-study-group-hachinohe/Python-Study-Group-HACHINOHE-02.pdf)
+* スライドは、[ジョン・V・グッターグ、『Python言語によるプログラミングイントロダクション』、近代科学社、2014年](http://www.kindaikagaku.co.jp/information/kd0469.htm)の対応する章を読んでからご覧いただくことをおすすめします。
+
+* [スライド 勉強会をはじめるにあたって](/pages/python-study-group-hachinohe/Python-Study-Group-HACHINOHE-00.pdf)
+* [スライド 第1章](/pages/python-study-group-hachinohe/Python-Study-Group-HACHINOHE-01.pdf)
+* [スライド 第2章](/pages/python-study-group-hachinohe/Python-Study-Group-HACHINOHE-02.pdf)
