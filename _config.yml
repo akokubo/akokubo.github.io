@@ -13,9 +13,11 @@ title: '小久保温のGitHub Pages'
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: 'りさんかされたたましい: ふぃじっくす こんぴゅーた えすえふ すぴりちゅある まいんど'
 
-
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: '小久保 温 (こくぼ・あつし / Atushi KOKUBO)のGitHub Pages'
+
+# The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
+# credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
@@ -23,7 +25,6 @@ author: akokubo
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-# url: ''
 url: 'https://akokubo.github.io'
 baseurl: ''
 
@@ -50,6 +51,7 @@ gems:
     - jekyll-asciidoc
     - jekyll-gist
     - jekyll-paginate
+
 
 #       ____              _             __  _
 #      / __ \____ _____ _(_)___  ____ _/ /_(_)___  ____
@@ -244,6 +246,7 @@ google_analytics_tracking_id: UA-69522319-1
 # used in _includes/footer_scripts
 
 # tawkto_embed_uri:
+
 
 #     ___              _     __           __
 #    /   |  __________(_)___/ /___  _____/ /_____  _____
