@@ -21,4 +21,4 @@ header:
 2017年9月23日(土) トゥルージオ株式会社 東北八戸BPOセンター
 
 * [スライド 第3章](/pages/python-study-group-hachinohe/Python-Study-Group-HACHINOHE-03.pdf)
-* スライド 第4章(準備中)
+* [スライド 第4章](/pages/python-study-group-hachinohe/Python-Study-Group-HACHINOHE-04.pdf)
