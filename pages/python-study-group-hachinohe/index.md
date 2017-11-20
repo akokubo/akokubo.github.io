@@ -28,3 +28,12 @@ header:
 
 * [スライド 第5章](/pages/python-study-group-hachinohe/Python-Study-Group-HACHINOHE-05.pdf)
 * [スライド 第6章](/pages/python-study-group-hachinohe/Python-Study-Group-HACHINOHE-06.pdf)
+
+## 第4回
+2017年11月18日(土) トゥルージオ株式会社 東北八戸BPOセンター
+
+* [スライド 第7章](/pages/python-study-group-hachinohe/Python-Study-Group-HACHINOHE-07.pdf)
+* スライド 第8章 ※準備中
+
+## 第5回
+2018年1月20日(土)(予定)
