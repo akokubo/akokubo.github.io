@@ -30,7 +30,7 @@ header:
 * 新谷 敬・石田 努・上谷 彊輔・小久保 温・坂井 雄介・角田 均・和島 茂、「3次元地理情報システム「デジタル青森」の開発と応用」、青森大学・青森短期大学学術研究会研究紀要 第32巻第3号 pp.61-73、2010年2月
 * 小久保 温・李 孝烈・角田 均、「ウェブ検索における重要度計算」、青森大学・青森短期大学学術研究会研究紀要 第32巻第3号 pp.75-108、2010年2月
 * 小久保 温、「「あおもりOSS中核人材育成事業」ブログの試み」、青森大学・青森短期大学学術研究会研究紀要 第30巻第3号 pp.79-87、2008年3月
-* 三澤 章、小久保 温、中田 哲男、「高性能デジタル一眼レフカメラを用いたマルチバンド撮影による高彩度絵画複製版画の製作技術研究」、21あおもり地域技術開発助成事業報告書、2007年
+* 三澤 章・小久保 温・中田 哲男、「高性能デジタル一眼レフカメラを用いたマルチバンド撮影による高彩度絵画複製版画の製作技術研究」、21あおもり地域技術開発助成事業報告書、2007年
 * 小久保 温、「コンピュータネットワークと団体をめぐるトラブル」、日本脱カルト協会報 第10号 pp.38-40、2006年11月
 * 小久保 温、「サーチエンジン最適化時代の議論の多い団体対策」、日本脱カルト協会報 第9号 pp.52-54、2005年4月
 * 小久保 温、「サーチエンジン最適化時代のWeb戦略」、青森大学・青森短期大学学術研究会研究紀要 第27巻第3・4号合併号 pp.87-98、2005年3月
@@ -59,7 +59,7 @@ header:
 * Atsushi Kokubo, Masahiro Maruyama and Fujio Takagi, "Hadron Structure Function in Flux Tube Model", 素粒子論研究 vol.89(6) pp.F102-F104, 1994年9月20日 (基研短期研究会「クォーク・ハドロンのダイナミックス」 1993年12月6〜8日の報告)、[CiNii](http://ci.nii.ac.jp/naid/110006412405)
 * Atsushi Kokubo, Maruyama Maruyama and Fujio Takagi, "Spin-Flavor Structure of the Nucleon in Five Quark Model", in Contributed Papers for 'PANIC XIII' - 'XIII International Conference on Particles and Nuclei, Perugia, Italy, Jun. 23-Jul. 2, 1993', 1993.
 * Atsushi Kokubo, Maruyama Maruyama, Fujio Takagi, "Spin-Flavor Structure of the Proton", in ed. by M. Fujiwara and M. Kondo, 'Lecture Notes of 1992 RCNP Kikuchi School, Osaka, Japan, Nov. 16-19, 1992', RCNP-P-128, pp.383-384, 1992.
-* Atsushi Kokubo, Maruyama Maruyama, Fujio Takagi, "Spin-Flavor Structure of the Proton" in ed. by T. Hasegawa, N. Horikawa, A. Masaike and S. Sawada, "Frontiers of High Energy Spin Physics" - 'Proceedings of 10th International Symposium on High Energy Spin Physics (Yamada Conference XXXV), Nagoya, Japan, Nov. 9-14, 1992', pp.557-560, Universal Academy Press, Inc., 1993.
+* Atsushi Kokubo, Maruyama Maruyama, Fujio Takagi, "Spin-Flavor Structure of the Proton", in ed. by T. Hasegawa, N. Horikawa, A. Masaike and S. Sawada, "Frontiers of High Energy Spin Physics" - 'Proceedings of 10th International Symposium on High Energy Spin Physics (Yamada Conference XXXV), Nagoya, Japan, Nov. 9-14, 1992', pp.557-560, Universal Academy Press, Inc., 1993.
 * 小久保 温・丸山 政弘・高木 富士夫、「核子の構造に対するパウリ原理の効果」、原子核におけるクォーク・ハドロンのダイナミクス研究会 (1992年6月11〜13 日、大阪大学核物理研究センター)報告 RCNP-P-122 pp.86-89,1992年
 * 小久保 温・丸山 政弘・高木 富士夫、 "Sea Quark Structure of the Proton", in 研究代表者 堀川 直顕、平成 3 年度 科学研究費補助金 (総合研究 B) 研究成果報告書、「高エネルギースピン物理と偏極粒子の生成(課題番号 03352004)」 pp.34-36、1993年(名古屋大学における「ハドロン構造とスピン」研究会、1992年2月17〜19日の発表報告)
 * 小久保 温、修士論文「陽子の模型と構造関数」、東北大学大学院理学研究科、1992年
