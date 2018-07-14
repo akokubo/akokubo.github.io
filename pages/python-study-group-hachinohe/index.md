@@ -39,4 +39,22 @@ header:
 2018年1月20日(土) トゥルージオ株式会社 東北八戸BPOセンター
 
 * [スライド 第9章](/pages/python-study-group-hachinohe/Python-Study-Group-HACHINOHE-09.pdf)
-* スライド 第10章(準備中)
+* [スライド 第10章](/pages/python-study-group-hachinohe/Python-Study-Group-HACHINOHE-10.pdf)
+
+## 第6回
+2018年3月10日(土) トゥルージオ株式会社 東北八戸BPOセンター
+
+* [スライド 第11章](/pages/python-study-group-hachinohe/Python-Study-Group-HACHINOHE-11.pdf)
+* [スライド 第12章](/pages/python-study-group-hachinohe/Python-Study-Group-HACHINOHE-12.pdf)
+
+## 第7回
+2018年5月12日(土) トゥルージオ株式会社 東北八戸BPOセンター
+
+* [スライド 第13章](/pages/python-study-group-hachinohe/Python-Study-Group-HACHINOHE-13.pdf)
+* [スライド 第14章](/pages/python-study-group-hachinohe/Python-Study-Group-HACHINOHE-14.pdf)
+
+## 第8回
+2018年7月14日(土) トゥルージオ株式会社 東北八戸BPOセンター
+
+* [スライド 第15章](/pages/python-study-group-hachinohe/Python-Study-Group-HACHINOHE-15.pdf)
+* [スライド 第16章](/pages/python-study-group-hachinohe/Python-Study-Group-HACHINOHE-16.pdf)
