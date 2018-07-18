@@ -39,7 +39,7 @@ header:
 
 * [スライド 第7章](/pages/python-study-group-hachinohe/Python-Study-Group-HACHINOHE-07.pdf)、
 [コード 第7章](https://github.com/akokubo/mit600-book-python2-jupyter-notebook/blob/master/%E7%AC%AC07%E7%AB%A0%20%E4%BE%8B%E5%A4%96%E3%81%A8%E3%82%A2%E3%82%B5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3.ipynb)
-* [スライド 第8章(暫定版)](/pages/python-study-group-hachinohe/Python-Study-Group-HACHINOHE-08-draft.pdf)、
+* [スライド 第8章](/pages/python-study-group-hachinohe/Python-Study-Group-HACHINOHE-08.pdf)、
 [コード 第8章](https://github.com/akokubo/mit600-book-python2-jupyter-notebook/blob/master/%E7%AC%AC08%E7%AB%A0%20%E3%82%AF%E3%83%A9%E3%82%B9%E3%81%A8%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0.ipynb)
 
 ## 第5回
