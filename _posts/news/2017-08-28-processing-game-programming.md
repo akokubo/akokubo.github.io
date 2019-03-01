@@ -20,21 +20,21 @@ Javaを学んだ高校生を対象に、JavaをベースにしたProcessingで�
 
 資料は2017年度版です。
 
-* Processing入門
+* Processing入門: [クリエイティブコモンズ表示 4.0 国際 (CC BY 4.0)ライセンス](https://creativecommons.org/licenses/by/4.0/deed.ja)
    - スライド: [pdf形式](https://github.com/akokubo/kuroishi_ch_processing/blob/master/slide_programming_processing.pdf)、[pptx形式](https://raw.githubusercontent.com/akokubo/kuroishi_ch_processing/master/slide_programming_processing.pptx)
    - [記入式ノート(docx形式)](https://raw.githubusercontent.com/akokubo/kuroishi_ch_processing/master/note_programming_processing.docx)
    - [ノートの記入例(docx形式)](https://raw.githubusercontent.com/akokubo/kuroishi_ch_processing/master/note_programming_processing_example.docx)
    - 画像素材
       + [モグラ](https://raw.githubusercontent.com/akokubo/kuroishi_ch_processing/master/mole.png)
       + [ハンマー](https://raw.githubusercontent.com/akokubo/kuroishi_ch_processing/master/hammer.png)
-* モグラ叩き
+* モグラ叩き: [MIT Lincese](https://github.com/akokubo/whack_a_mole/blob/master/LICENSE)
    - スライド: [pdf形式](https://github.com/akokubo/whack_a_mole/blob/master/doc/slide_whack_a_mole.pdf)、[pptx形式](https://raw.githubusercontent.com/akokubo/whack_a_mole/master/doc/slide_whack_a_mole.pptx)
    - コード解説: [pdf形式](https://github.com/akokubo/whack_a_mole/blob/master/doc/code_whack_a_mole.pdf)、[docx形式](https://raw.githubusercontent.com/akokubo/whack_a_mole/master/doc/code_whack_a_mole.docx)
    - 画像素材
       + [ステージ](https://raw.githubusercontent.com/akokubo/whack_a_mole/master/whack_a_mole/data/stage.png)
       + [モグラ](https://raw.githubusercontent.com/akokubo/whack_a_mole/master/whack_a_mole/data/mole.png)
       + [ハンマー](https://raw.githubusercontent.com/akokubo/whack_a_mole/master/whack_a_mole/data/hammer.png)
-* レトロなシューティング
+* レトロなシューティング: [MIT License](https://github.com/akokubo/retro_shooting/blob/master/LICENSE)
    - スライド: [pdf形式](https://github.com/akokubo/retro_shooting/blob/master/doc/slide_retro_shooting.pdf)、[pptx形式](https://raw.githubusercontent.com/akokubo/retro_shooting/master/doc/slide_retro_shooting.pptx)
    - コード解説: [pdf形式](https://github.com/akokubo/retro_shooting/blob/master/doc/code_retro_shooting.pdf)、[docx形式](https://raw.githubusercontent.com/akokubo/retro_shooting/master/doc/code_retro_shooting.docx)
    - 画像素材
