@@ -23,7 +23,10 @@ header:
 
 ## 所属
 
-[八戸工業大学](http://www.hi-tech.ac.jp/) 工学部 [システム情報工学科](http://www.info.hi-tech.ac.jp/) 教授  
+[八戸工業大学](http://www.hi-tech.ac.jp/) 工学部 [システム情報工学科](http://www.info.hi-tech.ac.jp/) / 大学院工学研究科 電子電気・情報工学専攻
+
+役職 教授  
+
 Dept. of Sys. & Info. Eng., Hachinohe Inst. of Tech.
 
 ## 学歴
