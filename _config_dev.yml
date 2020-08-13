@@ -4,6 +4,7 @@
 # the first one with the development variables needed.
 #
 # Start development with › $ jekyll serve --config _config.yml,_config_dev.yml
+#                        > $ jekyll serve --config _config.yml,_conf_dev.yml --incremental --trace
 
 url:    'http://localhost:4000'
 baseurl:  ''
@@ -11,16 +12,16 @@ urlimg:   'http://localhost:4000/images/'
 
 # See › https://github.com/jekyll/jekyll-gist#disabling-noscript-support
 gist:
-  noscript: false
+    noscript: false
 
 sass:
-  # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-  style: :expanded
-  line_numbers: true
-  # trace_selectors: true
-  # debug_info: true
-  # FUTURE https://github.com/jekyll/jekyll-sass-converter/issues/12
-  sourcemap: true
+    # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+    style: :expanded
+    line_numbers: true
+    # trace_selectors: true
+    # debug_info: true
+    # FUTURE https://github.com/jekyll/jekyll-sass-converter/issues/12
+    # sourcemap: true # Produces an error
 
 # Disable when not in production
 google_analytics_tracking_id: false

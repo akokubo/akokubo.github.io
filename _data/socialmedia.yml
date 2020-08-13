@@ -3,10 +3,10 @@
   class: icon-github
   title: 'コードいろいろ'
 
-# - name: YouTube
-#   url: http://www.youtube.com/PhlowMedia
-#   class: icon-youtube
-#   title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+- name: YouTube
+  url: https://www.youtube.com/channel/UCNMazJ8rUdAu0ZXrh8bhrQg
+  class: icon-youtube
+  title: "授業や研究の動画とか"
 
 - name: Twitter
   url: https://twitter.com/akokubo
