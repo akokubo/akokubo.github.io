@@ -14,7 +14,7 @@ TEL: 0178-25-3111(八戸工業大学代表)
 e-mail: kokubo@hi-tech.ac.jp
 
 Atsushi Kokubo, Ph.D.,  
-Dept. of Sys. & Info. Eng., Hachinohe Inst. of Tech.,  
+Dept. of Eng., Hachinohe Inst. of Tech.,  
 88-1 Ohbiraki, Myo, Hachinohe, Aomori 031-8501, Japan.  
 TEL:+81-178-25-8111(Hachinohe Inst. of Tech.)  
 e-mail: kokubo@hi-tech.ac.jp
