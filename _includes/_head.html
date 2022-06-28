@@ -21,6 +21,18 @@
 {% endcapture %}<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>{{ title }}</title>
+	
+	{% if site.google_analytics_tracking_id %}
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics_tracking_id }}"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', '{{ site.google_analytics_tracking_id }}');
+	</script>
+	{% endif %}
 
     <link rel="stylesheet" type="text/css" href="{{ url }}/assets/css/styles_feeling_responsive.css">
 
@@ -91,15 +103,4 @@
 	<style type="text/css">{{ page.style }}</style>
 	{% endunless %}
 
-	{% if site.google_analytics_tracking_id %}
-	<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics_tracking_id }}"></script>
-	<script>
-  	window.dataLayer = window.dataLayer || [];
-  	function gtag(){dataLayer.push(arguments);}
-  	gtag('js', new Date());
 
-		gtag('config', '{{ site.google_analytics_tracking_id }}');
-		gtag('config', '{{ site.google_analytics4_tracking_id }}');
-	</script>
-	{% endif %}
-	
