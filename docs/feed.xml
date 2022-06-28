@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://akokubo.github.io/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="https://akokubo.github.io/assets/css/rss.css" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>小久保温のGitHub Pages</title>
+		<description>小久保 温 (こくぼ・あつし / Atushi KOKUBO)のGitHub Pages</description>
+		<link>https://akokubo.github.io/</link>
+		<atom:link href="https://akokubo.github.io/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Processingゲーム開発教材</title>
+				<link>https://akokubo.github.io/news/processing-game-programming/</link>
+				<pubDate>Mon, 28 Aug 2017 09:00:00 +0900</pubDate>
+				<description>&lt;p&gt;青森県の商業高校では、近年、プログラミングでJavaを教えています。
+Javaを学んだ高校生を対象に、JavaをベースにしたProcessingでゲームを開発する教材を作りました。
+ですが、Javaを学んだ方であれば、高校生に限らずお使いいただけるように作ったつもりです。&lt;/p&gt;
+
+&lt;p&gt;黒石商業高校で2016年度に授業を実施し、2017年度も実施する予定です(2016、2017、2018年度にそれぞれ実施しました)。
+なので、Processing入門の資料には黒石商業高校の名前や日程が入っています。&lt;/p&gt;
+
+&lt;p&gt;資料は2017年度版です。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Processing入門: &lt;a href=&quot;https://creativecommons.org/licenses/by/4.0/deed.ja&quot;&gt;クリエイティブコモンズ表示 4.0 国際 (CC BY 4.0)ライセンス&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;スライド: &lt;a href=&quot;https://github.com/akokubo/kuroishi_ch_processing/blob/master/slide_programming_processing.pdf&quot;&gt;pdf形式&lt;/a&gt;、&lt;a href=&quot;https://raw.githubusercontent.com/akokubo/kuroishi_ch_processing/master/slide_programming_processing.pptx&quot;&gt;pptx形式&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/akokubo/kuroishi_ch_processing/master/note_programming_processing.docx&quot;&gt;記入式ノート(docx形式)&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/akokubo/kuroishi_ch_processing/master/note_programming_processing_example.docx&quot;&gt;ノートの記入例(docx形式)&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;画像素材
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/akokubo/kuroishi_ch_processing/master/mole.png&quot;&gt;モグラ&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/akokubo/kuroishi_ch_processing/master/hammer.png&quot;&gt;ハンマー&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;モグラ叩き: &lt;a href=&quot;https://github.com/akokubo/whack_a_mole/blob/master/LICENSE&quot;&gt;MIT Lincese&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;スライド: &lt;a href=&quot;https://github.com/akokubo/whack_a_mole/blob/master/doc/slide_whack_a_mole.pdf&quot;&gt;pdf形式&lt;/a&gt;、&lt;a href=&quot;https://raw.githubusercontent.com/akokubo/whack_a_mole/master/doc/slide_whack_a_mole.pptx&quot;&gt;pptx形式&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;コード解説: &lt;a href=&quot;https://github.com/akokubo/whack_a_mole/blob/master/doc/code_whack_a_mole.pdf&quot;&gt;pdf形式&lt;/a&gt;、&lt;a href=&quot;https://raw.githubusercontent.com/akokubo/whack_a_mole/master/doc/code_whack_a_mole.docx&quot;&gt;docx形式&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;画像素材
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/akokubo/whack_a_mole/master/whack_a_mole/data/stage.png&quot;&gt;ステージ&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/akokubo/whack_a_mole/master/whack_a_mole/data/mole.png&quot;&gt;モグラ&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/akokubo/whack_a_mole/master/whack_a_mole/data/hammer.png&quot;&gt;ハンマー&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;レトロなシューティング: &lt;a href=&quot;https://github.com/akokubo/retro_shooting/blob/master/LICENSE&quot;&gt;MIT License&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;スライド: &lt;a href=&quot;https://github.com/akokubo/retro_shooting/blob/master/doc/slide_retro_shooting.pdf&quot;&gt;pdf形式&lt;/a&gt;、&lt;a href=&quot;https://raw.githubusercontent.com/akokubo/retro_shooting/master/doc/slide_retro_shooting.pptx&quot;&gt;pptx形式&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;コード解説: &lt;a href=&quot;https://github.com/akokubo/retro_shooting/blob/master/doc/code_retro_shooting.pdf&quot;&gt;pdf形式&lt;/a&gt;、&lt;a href=&quot;https://raw.githubusercontent.com/akokubo/retro_shooting/master/doc/code_retro_shooting.docx&quot;&gt;docx形式&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;画像素材
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/akokubo/retro_shooting/master/retro_shooting/data/stage.png&quot;&gt;ステージ&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/akokubo/retro_shooting/master/retro_shooting/data/cannon.png&quot;&gt;キャノン&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/akokubo/retro_shooting/master/retro_shooting/data/alien.png&quot;&gt;エイリアン&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/akokubo/retro_shooting/master/retro_shooting/data/laser.png&quot;&gt;レーザー&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/akokubo/retro_shooting/master/retro_shooting/data/bomb.png&quot;&gt;ボム&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">https://akokubo.github.io/news/processing-game-programming/</guid>
+			</item>
+		
+			<item>
+				<title>Python勉強会@HACHINOHE第1回</title>
+				<link>https://akokubo.github.io/news/python-study-group-hachinohe-01/</link>
+				<pubDate>Sun, 30 Jul 2017 08:59:00 +0900</pubDate>
+				<description>&lt;p&gt;八戸のIT企業と大学の人たちが集まって、MITのPythonを使ったコンピュータ科学入門の教科書、ジョン・V・グッターグ著、『Python言語によるプログラミングイントロダクション』、近代科学社、2014年の勉強会を始めました。
+第1回は、7月29日に八戸ブックセンターで開催されました。&lt;/p&gt;
+
+&lt;p&gt;以下のリンクでスライドを公開しています。
+この本は自分で読んで、考えて、調べると力が着くように書かれています。
+なので、該当する範囲を読んで考えて調べた上でご覧ください。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/python-study-group-hachinohe/&quot;&gt;Python勉強会@HACHINOHE&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://akokubo.github.io/images/python-study-group-hachinohe-01.jpg&quot; alt=&quot;Python勉強会@HACHINOHE第1回&quot; /&gt;&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">https://akokubo.github.io/news/python-study-group-hachinohe-01/</guid>
+			</item>
+		
+			<item>
+				<title>八戸工業大学着任のご報告</title>
+				<link>https://akokubo.github.io/news/hello-hachinohe-inst-of-tech/</link>
+				<pubDate>Mon, 03 Apr 2017 21:50:00 +0900</pubDate>
+				<description>&lt;p&gt;4月から、八戸工業大学工学部システム情報工学科にお世話になります。
+新しい職場で、心機一転、新しいことにもどんどん取り組んで、がんばりたいと思います。&lt;/p&gt;
+
+&lt;p&gt;とは言え、本質的なところは変わらないつもりです。
+コンピュータが好き、コンピュータを学んで何者かになりたい、そんな若者を、地域と連携して実践的に鍛え、社会にはばたいてもらいたいと考えています。&lt;/p&gt;
+
+&lt;p&gt;わたしは、Web+データベース・アプリケーションの実践的開発やその教育を得意としています。
+また、地域の企業と連携して地域の課題に取り組んだり、青森県内で開催されるIT関係イベント(セミナーやハッカソンやアイデアソン)に積極的に参加したり、運営したりしてきました。&lt;/p&gt;
+
+&lt;p&gt;もしも、Webアプリケーションの開発を実践的に学びたい若者(若者でなくてもOK)がいたら、是非、八戸工業大学のわたしのところへおいでください。&lt;/p&gt;
+
+&lt;p&gt;また、スマートフォン・アプリは、実際にはWebアプリケーションが背後で動いていることが多く、本格的な開発をするには必須のものとなっています。&lt;/p&gt;
+
+&lt;p&gt;情報技術の変化は激しく、次々とトレンドが移り変わっていきます。
+新しいことにどんどん取り組み、しかし本質を見失わず、新しい技術を自分で学んで身につけることができる技術者を育成したいと思っています。&lt;/p&gt;
+
+&lt;p&gt;そして、地域が日本が世界が大変な状況を迎えつつある中、これまで以上にそれぞれの地域が互いに競い合い、協力しあい、がんばっていければと思っています。&lt;/p&gt;
+
+&lt;p&gt;どうぞよろしくお願いいたします。&lt;/p&gt;
+
+&lt;p&gt;追伸
+八戸に詳しいみなさん、ぜひ、いろいろ教えてください。&lt;/p&gt;
+
+&lt;p&gt;【Facebookの投稿より転載】&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://akokubo.github.io/images/hello-hachinohe-inst-of-tech.jpg&quot; alt=&quot;八戸工業大学着任&quot; /&gt;&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">https://akokubo.github.io/news/hello-hachinohe-inst-of-tech/</guid>
+			</item>
+		
+			<item>
+				<title>青森大学退職のご報告</title>
+				<link>https://akokubo.github.io/news/thank-you-aomori-univ/</link>
+				<pubDate>Sat, 01 Apr 2017 08:53:00 +0900</pubDate>
+				<description>&lt;p&gt;本日3月31日、20年勤めた青森大学を退職しました。&lt;/p&gt;
+
+&lt;p&gt;ぼくは、大学院進学した頃に、人生の危機を迎え、その影響で理論物理の研究はうまくいきませんでした。
+しかし、大学院では、子どもの頃からのあこがれだったコンピュータが、自由に利用できる環境があり、これには夢中になりました。&lt;/p&gt;
+
+&lt;p&gt;その後、何の実績もなかった、ぼくの技術を評価していただき、郵政省認可法人 通信・放送機構が東北大学加齢医学研究所へ国内招へい研究者として、また、青森大学が工学部情報システム工学科の助手として採用してくださったのは、奇跡的な幸運だったと思います。&lt;/p&gt;
+
+&lt;p&gt;青森大学という職場は、ぼくを成長させてくれました。
+最初はサーバーの管理者として、そして次第に教育者として、更には地域のIT企業や自治体などと連携して人材育成に携わるものとして。
+それは、尽きせぬはじめて出会う課題の数々と自分の限界との闘いでした。
+制約と創意工夫の余地がたくさんあり、ものごとをさまざまな階層で見つめ直す必要があり、それはぼくの能力を飛躍的に高めてくれました。&lt;/p&gt;
+
+&lt;p&gt;今日のぼくがあるのも、数々の挑戦と失敗を温かく支えてくださった青森大学、そして青森県の自治体、IT企業をはじめとしたみなさまのご好意があってのことです。
+どうもありがとうございました。&lt;/p&gt;
+
+&lt;p&gt;青森大学には、ぼくが身を削って鍛えてきた学生たちが在学しています。
+きっと、これからの世の中でお役に立つことと思います。
+どうぞよろしくお願いいたします。&lt;/p&gt;
+
+&lt;p&gt;写真は退職の記念(?)にいただいた青森大学マスコットキャラクター「あおりん」のクリアファイルです。&lt;/p&gt;
+
+&lt;p&gt;【Facebookの投稿より転載】&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://akokubo.github.io/images/aorin-clearfile.jpg&quot; alt=&quot;あおりんクリアファイル&quot; /&gt;&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">https://akokubo.github.io/news/thank-you-aomori-univ/</guid>
+			</item>
+		
+			<item>
+				<title>第3回オープンキャンパス</title>
+				<link>https://akokubo.github.io/news/aomori-univ-open-campus-2015-3rd/</link>
+				<pubDate>Sun, 13 Sep 2015 06:10:00 +0900</pubDate>
+				<description>&lt;p&gt;&lt;img src=&quot;https://akokubo.github.io/images/homepage-opencampus-2015-3rd.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;今日は青森大学の2015年第3回のオープンキャンパスでした。&lt;/p&gt;
+
+&lt;p&gt;TrimbleのSketchUpでアスパムを作るという内容でした。
+学生スタッフのみんなの対応がとてもよくて、来場者のみなさんにとてもよろこんでもらえました。&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">https://akokubo.github.io/news/aomori-univ-open-campus-2015-3rd/</guid>
+			</item>
+		
+			<item>
+				<title>教育研究に口頭発表の追加</title>
+				<link>https://akokubo.github.io/news/add-oral-sessions/</link>
+				<pubDate>Fri, 11 Sep 2015 02:05:00 +0900</pubDate>
+				<description>&lt;p&gt;教育研究に口頭発表を追加しました。&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">https://akokubo.github.io/news/add-oral-sessions/</guid>
+			</item>
+		
+			<item>
+				<title>Feeling Responsiveテンプレートを適用</title>
+				<link>https://akokubo.github.io/news/apply-feeling-responsive/</link>
+				<pubDate>Thu, 10 Sep 2015 12:45:00 +0900</pubDate>
+				<description>&lt;p&gt;サイトに&lt;a href=&quot;http://phlow.github.io/feeling-responsive/&quot;&gt;Feeling Responsive&lt;/a&gt;テンプレートを適用。&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">https://akokubo.github.io/news/apply-feeling-responsive/</guid>
+			</item>
+		
+			<item>
+				<title>GitHubページを使ったサイトを公開</title>
+				<link>https://akokubo.github.io/news/created-site/</link>
+				<pubDate>Thu, 10 Sep 2015 05:15:00 +0900</pubDate>
+				<description>&lt;p&gt;しばらく、自分のWebサイトの更新をさぼっていたので、GitHubページを使って、Webサイトを作ってみました。
+このデザインはRubyで書かれたCMSのjekyllのデフォルトです。
+プロフィールと教育研究業績を作ってみました。
+教育研究業績の口頭発表などは今後追加の予定です。&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">https://akokubo.github.io/news/created-site/</guid>
+			</item>
+		
+	</channel>
+</rss>

@@ -1,0 +1,646 @@
+<!doctype html>
+<html class="no-js" lang="ja">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Python勉強会@HACHINOHE</title>
+	
+	
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-69522319-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'UA-69522319-1');
+	</script>
+	
+
+    <link rel="stylesheet" type="text/css" href="https://akokubo.github.io/assets/css/styles_feeling_responsive.css">
+
+  
+
+	<link rel="meta" type="application/rdf+xml" title="FOAF" href="https://akokubo.github.io/atsushi_kokubo.foaf.rdf" />
+	<script src="https://akokubo.github.io/assets/js/modernizr.min.js"></script>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
+	<script>
+		WebFont.load({
+			google: {
+				families: [ 'Lato:400,700,400italic:latin', 'Volkhov::latin' ]
+			}
+		});
+	</script>
+
+	<noscript>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic%7CVolkhov' rel='stylesheet' type='text/css'>
+	</noscript>
+
+
+	<!-- Search Engine Optimization -->
+	<meta name="description" content="小久保 温 (こくぼ・あつし / Atushi KOKUBO)のGitHub Pages">
+	
+	
+	
+	
+	
+	
+	<link rel="canonical" href="https://akokubo.github.io/python-study-group-hachinohe/">
+
+
+	<!-- Facebook Open Graph -->
+	<meta property="og:title" content="Python勉強会@HACHINOHE">
+	<meta property="og:description" content="小久保 温 (こくぼ・あつし / Atushi KOKUBO)のGitHub Pages">
+	<meta property="og:url" content="https://akokubo.github.io/python-study-group-hachinohe/">
+	<meta property="og:locale" content="ja_JP">
+	<meta property="og:type" content="website">
+	<meta property="og:site_name" content="小久保温のGitHub Pages">
+	
+	<meta property="article:author" content="https://www.facebook.com/100002382355446">
+
+
+	
+	<!-- Twitter -->
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="akokubo">
+	<meta name="twitter:creator" content="akokubo">
+	<meta name="twitter:title" content="Python勉強会@HACHINOHE">
+	<meta name="twitter:description" content="小久保 温 (こくぼ・あつし / Atushi KOKUBO)のGitHub Pages">
+	
+	
+
+	<link type="text/plain" rel="author" href="https://akokubo.github.io/humans.txt">
+
+	
+
+	
+
+	<link rel="icon" sizes="32x32" href="https://akokubo.github.io/assets/img/favicon-32x32.png">
+
+	<link rel="icon" sizes="192x192" href="https://akokubo.github.io/assets/img/touch-icon-192x192.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://akokubo.github.io/assets/img/apple-touch-icon-180x180-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://akokubo.github.io/assets/img/apple-touch-icon-152x152-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://akokubo.github.io/assets/img/apple-touch-icon-144x144-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://akokubo.github.io/assets/img/apple-touch-icon-120x120-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://akokubo.github.io/assets/img/apple-touch-icon-114x114-precomposed.png">
+
+	
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://akokubo.github.io/assets/img/apple-touch-icon-76x76-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://akokubo.github.io/assets/img/apple-touch-icon-72x72-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" href="https://akokubo.github.io/assets/img/apple-touch-icon-precomposed.png">	
+
+	<meta name="msapplication-TileImage" content="https://akokubo.github.io/assets/img/msapplication_tileimage.png">
+
+	<meta name="msapplication-TileColor" content="#fabb00">
+
+
+	
+
+
+
+</head>
+<body id="top-of-page" class="post">
+	
+	<div id="navigation" class="sticky">
+  <nav class="top-bar" role="navigation" data-topbar>
+    <ul class="title-area">
+      <li class="name">
+      <h1 class="show-for-small-only"><a href="https://akokubo.github.io" class="icon-tree"> 小久保温のGitHub Pages</a></h1>
+    </li>
+       <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+      <li class="toggle-topbar menu-icon"><a href="#"><span>Navigation</span></a></li>
+    </ul>
+    <section class="top-bar-section">
+
+      <ul class="right">
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+            
+            
+              <li class="divider"></li>
+              <li><a  href="https://akokubo.github.io/search/">検索</a></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+            
+            
+              <li class="divider"></li>
+              <li><a  href="https://akokubo.github.io/contact/">連絡先</a></li>
+
+            
+            
+          
+        
+        
+      </ul>
+
+      <ul class="left">
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a  href="https://akokubo.github.io/">ホーム</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a  href="https://akokubo.github.io/profile/">プロフィール</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+
+              <li class="has-dropdown">
+                <a  href="https://akokubo.github.io/activities/">教育研究</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a  href="https://akokubo.github.io/activities/summaries/">取組概要</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://akokubo.github.io/activities/books/">著書・訳書</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://akokubo.github.io/activities/articles/">論文</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://akokubo.github.io/activities/oral-presentations/">口頭発表</a></li>
+                    
+                  </ul>
+
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+
+              <li class="has-dropdown">
+                <a  href="https://akokubo.github.io/blog/">ブログ</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a  href="https://akokubo.github.io/blog/archive/">ブログアーカイブ</a></li>
+                    
+                  </ul>
+
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li class="active"><a  href="https://akokubo.github.io/python-study-group-hachinohe/">Python勉強会@HACHINOHE</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+        
+      </ul>
+    </section>
+  </nav>
+</div><!-- /#navigation -->
+
+	
+
+	
+
+<div id="masthead">
+	<div class="row">
+		<div class="small-12 columns">
+			<a id="logo" href="https://akokubo.github.io/" title="小久保温のGitHub Pages – りさんかされたたましい: ふぃじっくす こんぴゅーた えすえふ すぴりちゅある まいんど">
+				<img src="https://akokubo.github.io/assets/img/logo.png" alt="小久保温のGitHub Pages – りさんかされたたましい: ふぃじっくす こんぴゅーた えすえふ すぴりちゅある まいんど">
+			</a>
+		</div><!-- /.small-12.columns -->
+	</div><!-- /.row -->
+</div><!-- /#masthead -->
+
+
+
+
+<nav class="breadcrumbs" role="menubar" aria-label="breadcrumbs">
+ <a href="https://akokubo.github.io">ホーム</a>
+ 
+   
+    
+        <a class="current">Python勉強会@HACHINOHE</a>
+    
+  
+</nav>
+
+
+
+
+
+
+
+
+
+
+	<div class="row t30">
+	<div class="medium-8 columns medium-offset-2 end">
+		<article itemscope itemtype="http://schema.org/Article">
+			<header>
+				
+
+				<div itemprop="name">
+					
+					<h1>Python勉強会@HACHINOHE</h1>
+				</div>
+			</header>
+
+
+			
+
+			<div itemprop="articleSection">
+			<h2 id="第1回">第1回</h2>
+<p>2017年7月29日(土) 八戸ブックセンター</p>
+
+<ul>
+  <li>
+    <p>スライドは、<a href="http://www.kindaikagaku.co.jp/information/kd0469.htm">ジョン・V・グッターグ、『Python言語によるプログラミングイントロダクション』、近代科学社、2014年</a>の対応する章を読んでからご覧いただくことをおすすめします。
+なお、2017年9月1日に、第2版の翻訳、<a href="http://www.kindaikagaku.co.jp/information/kd0518.htm">ジョン・V・グッターグ、『Python言語によるプログラミングイントロダクション第2版』、近代科学社、2017年</a>が出版されました。</p>
+  </li>
+  <li><a href="/pages/python-study-group-hachinohe/Python-Study-Group-HACHINOHE-00.pdf">スライド 勉強会をはじめるにあたって</a></li>
+  <li><a href="/pages/python-study-group-hachinohe/Python-Study-Group-HACHINOHE-01.pdf">スライド 第1章</a></li>
+  <li><a href="/pages/python-study-group-hachinohe/Python-Study-Group-HACHINOHE-02.pdf">スライド 第2章</a>、
+<a href="https://github.com/akokubo/mit600-book-python2-jupyter-notebook/blob/master/%E7%AC%AC02%E7%AB%A0%20Python%E3%81%AE%E6%A6%82%E8%A6%81.ipynb">コード 第2章</a></li>
+</ul>
+
+<h2 id="第2回">第2回</h2>
+<p>2017年9月23日(土) トゥルージオ株式会社 東北八戸BPOセンター</p>
+
+<ul>
+  <li><a href="/pages/python-study-group-hachinohe/Python-Study-Group-HACHINOHE-03.pdf">スライド 第3章</a>、
+<a href="https://github.com/akokubo/mit600-book-python2-jupyter-notebook/blob/master/%E7%AC%AC03%E7%AB%A0%20%E7%B0%A1%E5%8D%98%E3%81%AA%E7%AE%97%E8%A1%93%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0.ipynb">コード 第3章</a></li>
+  <li><a href="/pages/python-study-group-hachinohe/Python-Study-Group-HACHINOHE-04.pdf">スライド 第4章</a>、
+<a href="https://github.com/akokubo/mit600-book-python2-jupyter-notebook/blob/master/%E7%AC%AC04%E7%AB%A0%20%E9%96%A2%E6%95%B0%E3%80%81%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%97%E3%80%81%E6%8A%BD%E8%B1%A1%E5%8C%96.ipynb">コード 第4章</a></li>
+</ul>
+
+<h2 id="第3回">第3回</h2>
+<p>2017年10月21日(土) トゥルージオ株式会社 東北八戸BPOセンター</p>
+
+<ul>
+  <li><a href="/pages/python-study-group-hachinohe/Python-Study-Group-HACHINOHE-05.pdf">スライド 第5章</a>、
+<a href="https://github.com/akokubo/mit600-book-python2-jupyter-notebook/blob/master/%E7%AC%AC05%E7%AB%A0%20%E6%A7%8B%E9%80%A0%E5%9E%8B%E3%80%81%E5%8F%AF%E5%A4%89%E6%80%A7%E3%81%A8%E9%AB%98%E9%9A%8E%E9%96%A2%E6%95%B0.ipynb">コード 第5章</a></li>
+  <li><a href="/pages/python-study-group-hachinohe/Python-Study-Group-HACHINOHE-06.pdf">スライド 第6章</a>、
+<a href="https://github.com/akokubo/mit600-book-python2-jupyter-notebook/blob/master/%E7%AC%AC06%E7%AB%A0%20%E3%83%86%E3%82%B9%E3%83%88%E3%81%A8%E3%83%87%E3%83%90%E3%83%83%E3%82%B0.ipynb">コード 第6章</a></li>
+</ul>
+
+<h2 id="第4回">第4回</h2>
+<p>2017年11月18日(土) トゥルージオ株式会社 東北八戸BPOセンター</p>
+
+<ul>
+  <li><a href="/pages/python-study-group-hachinohe/Python-Study-Group-HACHINOHE-07.pdf">スライド 第7章</a>、
+<a href="https://github.com/akokubo/mit600-book-python2-jupyter-notebook/blob/master/%E7%AC%AC07%E7%AB%A0%20%E4%BE%8B%E5%A4%96%E3%81%A8%E3%82%A2%E3%82%B5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3.ipynb">コード 第7章</a></li>
+  <li><a href="/pages/python-study-group-hachinohe/Python-Study-Group-HACHINOHE-08.pdf">スライド 第8章</a>、
+<a href="https://github.com/akokubo/mit600-book-python2-jupyter-notebook/blob/master/%E7%AC%AC08%E7%AB%A0%20%E3%82%AF%E3%83%A9%E3%82%B9%E3%81%A8%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0.ipynb">コード 第8章</a></li>
+</ul>
+
+<h2 id="第5回">第5回</h2>
+<p>2018年1月20日(土) トゥルージオ株式会社 東北八戸BPOセンター</p>
+
+<ul>
+  <li><a href="/pages/python-study-group-hachinohe/Python-Study-Group-HACHINOHE-09.pdf">スライド 第9章</a>、
+<a href="https://github.com/akokubo/mit600-book-python2-jupyter-notebook/blob/master/%E7%AC%AC09%E7%AB%A0%20%E8%A8%88%E7%AE%97%E8%A4%87%E9%9B%91%E6%80%A7%E5%85%A5%E9%96%80.ipynb">コード 第9章</a></li>
+  <li><a href="/pages/python-study-group-hachinohe/Python-Study-Group-HACHINOHE-10.pdf">スライド 第10章</a>、
+<a href="https://github.com/akokubo/mit600-book-python2-jupyter-notebook/blob/master/%E7%AC%AC10%E7%AB%A0%20%E3%81%84%E3%81%8F%E3%81%A4%E3%81%8B%E3%81%AE%E5%8D%98%E7%B4%94%E3%81%AA%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0.ipynb">コード 第10章</a></li>
+</ul>
+
+<h2 id="第6回">第6回</h2>
+<p>2018年3月10日(土) トゥルージオ株式会社 東北八戸BPOセンター</p>
+
+<ul>
+  <li><a href="/pages/python-study-group-hachinohe/Python-Study-Group-HACHINOHE-11.pdf">スライド 第11章</a>、
+<a href="https://github.com/akokubo/mit600-book-python2-jupyter-notebook/blob/master/%E7%AC%AC11%E7%AB%A0%20%E3%83%97%E3%83%AD%E3%83%83%E3%83%88%E3%81%A8%E3%82%AF%E3%83%A9%E3%82%B9.ipynb">コード 第11章</a></li>
+  <li><a href="/pages/python-study-group-hachinohe/Python-Study-Group-HACHINOHE-12.pdf">スライド 第12章</a>、
+<a href="https://github.com/akokubo/mit600-book-python2-jupyter-notebook/blob/master/%E7%AC%AC12%E7%AB%A0%20%E7%A2%BA%E7%8E%87%E3%80%81%E7%B5%B1%E8%A8%88%E3%81%A8%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0.ipynb">コード 第12章</a></li>
+</ul>
+
+<h2 id="第7回">第7回</h2>
+<p>2018年5月12日(土) トゥルージオ株式会社 東北八戸BPOセンター</p>
+
+<ul>
+  <li><a href="/pages/python-study-group-hachinohe/Python-Study-Group-HACHINOHE-13.pdf">スライド 第13章</a>、
+<a href="https://github.com/akokubo/mit600-book-python2-jupyter-notebook/blob/master/%E7%AC%AC13%E7%AB%A0%20%E3%83%A9%E3%83%B3%E3%83%80%E3%83%A0%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AF%E3%81%A8%E5%8F%AF%E8%A6%96%E5%8C%96.ipynb">コード 第13章</a></li>
+  <li><a href="/pages/python-study-group-hachinohe/Python-Study-Group-HACHINOHE-14.pdf">スライド 第14章</a>、
+<a href="https://github.com/akokubo/mit600-book-python2-jupyter-notebook/blob/master/%E7%AC%AC14%E7%AB%A0%20%E3%83%A2%E3%83%B3%E3%83%86%E3%82%AB%E3%83%AB%E3%83%AD%E3%83%BB%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3.ipynb">コード 第14章</a></li>
+</ul>
+
+<h2 id="第8回">第8回</h2>
+<p>2018年7月14日(土) トゥルージオ株式会社 東北八戸BPOセンター</p>
+
+<ul>
+  <li><a href="/pages/python-study-group-hachinohe/Python-Study-Group-HACHINOHE-15.pdf">スライド 第15章</a>、
+<a href="https://github.com/akokubo/mit600-book-python2-jupyter-notebook/blob/master/%E7%AC%AC15%E7%AB%A0%20%E5%AE%9F%E9%A8%93%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E7%90%86%E8%A7%A3.ipynb">コード 第15章</a></li>
+  <li><a href="/pages/python-study-group-hachinohe/Python-Study-Group-HACHINOHE-16.pdf">スライド 第16章</a>、
+<a href="https://github.com/akokubo/mit600-book-python2-jupyter-notebook/blob/master/%E7%AC%AC16%E7%AB%A0%20%E3%81%86%E3%81%9D%E3%80%81%E7%9C%9F%E3%81%A3%E8%B5%A4%E3%81%AA%E3%81%86%E3%81%9D%E3%80%81%E3%81%9D%E3%81%97%E3%81%A6%E7%B5%B1%E8%A8%88.ipynb">コード 第16章</a></li>
+</ul>
+
+<h2 id="第9回">第9回</h2>
+<p>2018年9月8日(土) トゥルージオ株式会社 東北八戸BPOセンター</p>
+
+<ul>
+  <li><a href="/pages/python-study-group-hachinohe/Python-Study-Group-HACHINOHE-17.pdf">スライド 第17章</a>、
+<a href="https://github.com/akokubo/mit600-book-python2-jupyter-notebook/blob/master/%E7%AC%AC17%E7%AB%A0%20%E3%83%8A%E3%83%83%E3%83%97%E3%82%B5%E3%83%83%E3%82%AF%E5%95%8F%E9%A1%8C%E3%81%A8%E3%82%B0%E3%83%A9%E3%83%95%E6%9C%80%E9%81%A9%E5%8C%96%E5%95%8F%E9%A1%8C.ipynb">コード 第17章</a></li>
+  <li><a href="/pages/python-study-group-hachinohe/Python-Study-Group-HACHINOHE-18.pdf">スライド 第18章</a>、
+<a href="https://github.com/akokubo/mit600-book-python2-jupyter-notebook/blob/master/%E7%AC%AC18%E7%AB%A0%20%E5%8B%95%E7%9A%84%E8%A8%88%E7%94%BB%E6%B3%95.ipynb">コード 第18章</a></li>
+</ul>
+
+<h2 id="第10回">第10回</h2>
+<p>2018年11月23日(金) トゥルージオ株式会社 東北八戸BPOセンター</p>
+
+<ul>
+  <li><a href="/pages/python-study-group-hachinohe/Python-Study-Group-HACHINOHE-19.pdf">スライド 第19章</a>、
+<a href="https://github.com/akokubo/mit600-book-python2-jupyter-notebook/blob/master/%E7%AC%AC19%E7%AB%A0%20%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%81%AF%E3%82%84%E3%82%8F%E3%81%8B%E3%82%8A.ipynb">コード 第19章</a></li>
+</ul>
+
+			</div>
+
+			
+
+			
+		</article>
+	</div><!-- /.medium-8.columns -->
+
+
+	
+
+
+	
+</div><!-- /.row -->
+
+
+	
+	    <div id="up-to-top" class="row">
+      <div class="small-12 columns" style="text-align: right;">
+        <a class="iconfont" href="#top-of-page">&#xf108;</a>
+      </div><!-- /.small-12.columns -->
+    </div><!-- /.row -->
+
+
+    <footer id="footer-content" class="bg-grau">
+      <div id="footer">
+        <div class="row">
+          <div class="medium-6 large-5 columns">
+            <h5 class="shadow-black">このサイトについて</h5>
+
+            <p class="shadow-black">
+              小久保 温 (こくぼ・あつし / Atushi KOKUBO)のGitHub Pages
+              <a href="https://akokubo.github.io/about/">詳しく ›</a>
+            </p>
+          </div><!-- /.large-6.columns -->
+
+
+          <div class="small-6 medium-3 large-3 large-offset-1 columns">
+            
+              
+                <h5 class="shadow-black">Services</h5>
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+
+              <ul class="no-bullet shadow-black">
+              
+                
+                  <li >
+                    <a href="https://akokubo.github.io"  title=""></a>
+                  </li>
+              
+                
+                  <li >
+                    <a href="https://akokubo.github.io/contact/"  title="Contact">Contact</a>
+                  </li>
+              
+                
+                  <li >
+                    <a href="https://akokubo.github.io/feed.xml"  title="RSSを購読">RSS</a>
+                  </li>
+              
+                
+                  <li >
+                    <a href="https://akokubo.github.io/atom.xml"  title="Atomを購読">Atom</a>
+                  </li>
+              
+                
+                  <li >
+                    <a href="https://akokubo.github.io/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
+                  </li>
+              
+              </ul>
+          </div><!-- /.large-4.columns -->
+
+
+          <div class="small-6 medium-3 large-3 columns">
+            
+              
+                <h5 class="shadow-black">Thanks!</h5>
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+
+            <ul class="no-bullet shadow-black">
+            
+              
+                <li >
+                  <a href="https://akokubo.github.io"  title=""></a>
+                </li>
+            
+              
+                <li class="network-entypo" >
+                  <a href="http://entypo.com/" target="_blank"  title="Icons by Daniel Bruce">Icons by Daniel Bruce</a>
+                </li>
+            
+              
+                <li class="services-newsletter" >
+                  <a href="http://foundation.zurb.com/" target="_blank"  title="Built on Foundation">Built on Foundation</a>
+                </li>
+            
+              
+                <li class="rss-link" >
+                  <a href="http://unsplash.com/" target="_blank"  title="Images by Unsplash">Images by Unsplash</a>
+                </li>
+            
+              
+                <li class="sitemap-link" >
+                  <a href="http://srobbin.com/jquery-plugins/backstretch/" target="_blank"  title="Using Backstretch by Scott Robbin">Using Backstretch by Scott Robbin</a>
+                </li>
+            
+            </ul>
+          </div><!-- /.large-3.columns -->
+        </div><!-- /.row -->
+
+      </div><!-- /#footer -->
+
+
+      <div id="subfooter">
+        <nav class="row">
+          <section id="subfooter-left" class="small-12 medium-6 columns credits">
+            
+          </section>
+
+          <section id="subfooter-right" class="small-12 medium-6 columns">
+            <ul class="inline-list social-icons">
+            
+              <li><a href="http://github.com/akokubo" target="_blank" class="icon-github" title="コードいろいろ"></a></li>
+            
+              <li><a href="https://www.youtube.com/channel/UCNMazJ8rUdAu0ZXrh8bhrQg" target="_blank" class="icon-youtube" title="授業や研究の動画とか"></a></li>
+            
+              <li><a href="https://twitter.com/akokubo" target="_blank" class="icon-twitter" title="Twitterでこくぼあつしの今を"></a></li>
+            
+              <li><a href="https://www.facebook.com/100002382355446" target="_blank" class="icon-facebook" title="リアルなお知り合いの方は"></a></li>
+            
+            </ul>
+          </section>
+        </nav>
+      </div><!-- /#subfooter -->
+    </footer>
+
+	
+
+	
+
+<script src="https://akokubo.github.io/assets/js/javascript.min.js"></script>
+
+
+<script>
+    $("#masthead").backstretch("/images/header_unsplash_02.jpg", {fade: 700});
+    $("#masthead-with-text").backstretch("/images/header_unsplash_02.jpg", {fade: 700});
+</script>
+
+
+
+
+
+
+</body>
+</html>
+
