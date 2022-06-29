@@ -1,2 +1,0 @@
-User-agent: *
-Sitemap: https://akokubo.github.io/sitemap.xml
