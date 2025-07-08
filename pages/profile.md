@@ -19,6 +19,8 @@ header:
 ## 学会・研究会
 * [日本物理学会](http://www.jps.or.jp/)
 * [情報処理学会](https://www.ipsj.or.jp/)
+* [日本社会心理学会](https://www.socialpsychology.jp/)
+* [日本デジタルゲーム学会](https://digrajapan.org/)
 * [日本脱カルト協会](http://www.jscpr.org/)
 
 ## 所属
