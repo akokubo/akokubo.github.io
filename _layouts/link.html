@@ -1,0 +1,34 @@
+---
+layout: default
+format: link
+---
+<div class="lit-link-wrapper">
+  <div class="lit-link-container">
+    <div class="lit-link-header">
+      {% if page.profile_image %}
+      <div class="lit-link-profile-img-container">
+        <img src="{{ site.urlimg }}{{ page.profile_image }}" alt="{{ page.title }}" class="lit-link-profile-img">
+      </div>
+      {% endif %}
+      <h1 class="lit-link-name">{{ page.title }}</h1>
+      {% if page.description %}
+      <p class="lit-link-description">{{ page.description }}</p>
+      {% endif %}
+    </div>
+
+    <div class="lit-link-items">
+      {% for link in page.links %}
+      <a href="{{ link.url }}" class="lit-link-btn" target="_blank" rel="noopener noreferrer">
+        {% if link.icon %}
+        <i class="fa fa-{{ link.icon }}" aria-hidden="true"></i>
+        {% endif %}
+        <span class="lit-link-text">{{ link.title }}</span>
+      </a>
+      {% endfor %}
+    </div>
+    
+    <div class="lit-link-footer">
+       <p>© {{ site.time | date: '%Y' }} {{ site.title }}</p>
+    </div>
+  </div>
+</div>

@@ -1,9 +1,5 @@
----
-# Only the main Sass file needs front matter, rest is included from site.sass.sass_dir
-sitemap:
-  exclude: true
----
-@charset "utf-8";
+--- # Only the main Sass file needs front matter,
+rest is included from site.sass.sass_dir sitemap: exclude: true --- @charset "utf-8";
 
 @import "functions.scss";
 @import "01_settings_colors.scss";
@@ -42,8 +38,15 @@ sitemap:
 @import "foundation-components/grid";
 @import "09_elements.scss";
 
-{% if site.asciidoctor-enabled == true %}
+  {
+  % if site.asciidoctor-enabled==true %
+}
+
 @import "10_asciidoc.scss";
-{% endif %}
+
+  {
+  % endif %
+}
 
 @import "11_syntax-highlighting.scss";
+@import "link";
