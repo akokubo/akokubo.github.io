@@ -6,15 +6,18 @@ header:
     image_fullwidth: "header_unsplash_03.jpg"
 ---
 
-![Atsushi Kokubo's portrait]({{ site.url }}/images/kokubo.jpg)
+![ChatGPTとGeminiによる自己紹介]({{ site.url }}/images/atsushi_kokubo_card.jpg)
 
 小久保 温 (こくぼ あつし) 博士(理学) / Atsushi Kokubo, Ph.D.  
 1968年(昭和43年)2月22日生
+
+![Atsushi Kokubo's portrait]({{ site.url }}/images/kokubo.jpg)
 
 ## 専門
 * Web開発
 * 色再現技術
 * 物理学: 原子核・素粒子理論
+
 
 ## 学会・研究会
 * [日本物理学会](http://www.jps.or.jp/)
