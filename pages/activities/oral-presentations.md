@@ -14,7 +14,7 @@ header:
 * 湯瀬 心陽・小久保 温、1-3「超音波センサーを使ったゴミ箱の使用率を通知するWebアプリの開発」、令和6年度 情報処理学会東北支部研究会(八戸工業大学)、2024年12月20日
 * 小久保 温、O1204「詐欺抵抗力診断アプリの評価と改善: 汎化性能と特徴量(質問)選択」、日本社会心理学会 第65回大会 (日本大学文理学部・オンライン開催)、2024年9月1日
 * 小久保 温、5G-06「詐欺抵抗力診断アプリの特徴量選択」、情報処理学会 第86回 全国大会 (神奈川大学ハイブリッド開催)、2024年3月16日、[http://id.nii.ac.jp/1001/00236652/](http://id.nii.ac.jp/1001/00236652/)
-* 高谷 優真、鳴海 康平、小久保 温、2-6「八戸工業大学の学生向け掲示Webサービスの開発」、令和5年度 第2回情報処理学会東北支部研究会(八戸工業大学・オンライン開催)、2023年12月15日
+* 高谷 優真・鳴海 康平・小久保 温、2-6「八戸工業大学の学生向け掲示Webサービスの開発」、令和5年度 第2回情報処理学会東北支部研究会(八戸工業大学・オンライン開催)、2023年12月15日
 * 小久保 温、LT「AWS Academy使ってみた」、\[オフライン＆オンライン\] JAWS-UG東北×JAWS女子会合同開催 AWS LT大会 \[初心者大歓迎\] (仙台協立第1ビルハイブリッド開催)、2023年3月18日
 * 小久保 温、5F-01「詐欺抵抗力診断アプリの性能の評価と改善」、情報処理学会 第85回 全国大会 (電気通信大学ハイブリッド開催)、2023年3月3日、[http://id.nii.ac.jp/1001/00230580/](http://id.nii.ac.jp/1001/00230580/)
 * 小久保 温、1「ProcessingによるAndroidアプリ開発の諸課題」、令和3年度第2回芸術科学会東北支部研究会 (八戸市ユートリーハイブリッド開催)、2022年3月24日
@@ -156,14 +156,14 @@ header:
 * 小久保 温・福田 寛・川島 隆太・佐藤 和則・粂川 一也、531「空間光伝送による病院間高速通信システムの構築」、第37回 日本核医学会、大宮、1997年11月20日
 * 小久保 温・丸山 政弘・高木 富士夫、「フラックス・チューブ模型による核子のパートン分布」、「QCDとハドロン物理の新展開」研究会、京都大学 基礎物理学研究所、1996年1月22-24日(23日に発表)、[J-STAGE](https://doi.org/10.24532/soken.94.6_F79)
 * 小久保 温・丸山 政弘・高木 富士夫、「フラックス・チューブ模型によるハドロンの構造関数」、理研シンポジウム「ハドロンと原子核の構造関数 - Deep Structure of Quarks and Gluons in Hadron / Nuclei」、理化学研究所、1995年1月
-* Atsushi Kokubo, Masahiro Maruyama and Fujio Takagi, "Hadron Structure Function in Flux Tube Model", 1994 YITP Workshop on Theoretical Problems at the Interface of Particle and Nuclear Physics, "From Hadronic Matter to Quark Matter: Evolving View of Hadronic Matter"(「ハドロン物質よりクォーク物質へ: 進化するハドロン物質像」研究会), Yukawa Institute for Theoretical Physics, Kyoto Univ., Oct. 30-Nov. 1, 1994, [CiNii](http://ci.nii.ac.jp/naid/110001207981)
+* Atsushi Kokubo, Masahiro Maruyama, Fujio Takagi, "Hadron Structure Function in Flux Tube Model", 1994 YITP Workshop on Theoretical Problems at the Interface of Particle and Nuclear Physics, "From Hadronic Matter to Quark Matter: Evolving View of Hadronic Matter"(「ハドロン物質よりクォーク物質へ: 進化するハドロン物質像」研究会), Yukawa Institute for Theoretical Physics, Kyoto Univ., Oct. 30-Nov. 1, 1994, [CiNii](http://ci.nii.ac.jp/naid/110001207981)
 * 小久保 温・丸山 政弘・高木 富士夫、2p-E-3「フラックス・チューブ模型によるパートン分布の計算」、日本物理学会、山形大学、1994年9月29日-10月2日(10月2日に発表)、[J-STAGE](    https://doi.org/10.11316/jpsgaiyoj.1994.1.0_83_2)
 * 小久保 温・丸山 政弘・高木 富士夫、28p-Z-3「フラックス・チューブ模型によるハドロンの構造関数の計算」、日本物理学会、福岡工業大学、1994年3月28-31日(28日に発表)、[J-STAGE](https://doi.org/10.11316/jpsgaiyog.49.1.0_62_1)
 * 小久保 温・丸山 政弘・高木 富士夫、「フラックス・チューブ模型によるハドロンの構造関数」、「クォーク・ハドロンのダイナミックス」研究会、京都大学 基礎物理学研究所、1993年12月6-8日(8日に発表)
 * 小久保 温・丸山 政弘・高木 富士夫、5a-A-7「弦模型によるハドロンの構造関数」、日本物理学会、高知大学、1993年10月3-6日(5日に発表)、[J-STAGE](https://doi.org/10.11316/jpsgaiyoj.1993.1.0_80_1)
 * 小久保 温・丸山 政弘・高木 富士夫、「クォーク5体模型による核子のスピン・フレーヴァー構造」、「ハドロンおよび原子核の構造関数」ワークショップ、大阪大学 核物理研究センター、1993年7月
 * 小久保 温・丸山 政弘・高木 富士夫、30a-ZM-1「クォーク5体模型による核子のスピン・フレーヴァー構造」、日本物理学会、東北大学、1993年3月29日-4月1日(3月30日に発表)、[J-STAGE](https://doi.org/10.11316/jpsgaiyog.48.1.0_65_2)
-* Atsushi Kokubo, Masahiro Maruyama and Fujio Takagi, "Spin-Flavor Structure of the Proton", 35th Yamada Conference, 10th International Symposium on HIGH ENERGY SPIN PHYSICS, Nagoya, Japan, Nov. 9-14, 1992
+* Atsushi Kokubo, Masahiro Maruyama, Fujio Takagi, "Spin-Flavor Structure of the Proton", 35th Yamada Conference, 10th International Symposium on HIGH ENERGY SPIN PHYSICS, Nagoya, Japan, Nov. 9-14, 1992
 * 小久保 温・丸山 政弘・高木 富士夫、3p-C-5「核子のスピン・フレーヴァー構造」、日本物理学会、新潟大学、1992年10月2-5日(3日に発表)、[J-STAGE](https://doi.org/10.11316/jpsgaiyok.1992.1.0_68_1)
 * 小久保 温・丸山 政弘・高木 富士夫、「核子構造に対するパウリ原理の効果」、「原子核におけるクォーク・ハドロンのダイナミクス」研究会、大阪大学 核物理研究センター、1992年6月
 * 小久保 温・丸山 政弘・高木 富士夫、「陽子のパートン分布に対するパウリ原理、中間子雲、閉じ込めの効果」、日本物理学会、慶応義塾大学 日吉校舎、1992年3月
