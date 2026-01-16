@@ -16,6 +16,9 @@ header:
 # 研究のインフォグラフィックス
 Google Geminiで試作
 
+* 2025年度: LLMアプリ開発教材の作成（学部、大学院の少人数授業用）
+![LLMアプリ開発教材の作成]({{ site.url }}/images/LLM_app_develop.jpg)
+
 * 2025年: ウェイト=スミス版タロットのAI占い（物語生成の研究）
 ![ウェイト=スミス版タロットのAI占い]({{ site.url }}/images/pkt_gai.jpg)
 
