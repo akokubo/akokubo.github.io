@@ -16,6 +16,9 @@ header:
 # 研究のインフォグラフィックス
 Google Geminiで試作
 
+* 2026年: 教育用にELIZAの日本語化と動作原理の可視化
+![教育用にELIZAの日本語化と動作原理の可視化]({{ site.url }}/images/eliza_jp.jpg)
+
 * 2025年度: LLMアプリ開発教材の作成（学部、大学院の少人数授業用）
 ![LLMアプリ開発教材の作成]({{ site.url }}/images/LLM_app_develop.jpg)
 
