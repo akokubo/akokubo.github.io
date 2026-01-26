@@ -43,6 +43,9 @@ Google Geminiで試作
 * 2014年: Web 3D全天球パノラマビューアーの開発
 ![Web 3D全天球パノラマビューアーの開発]({{ site.url }}/images/Web3Dpanorama.jpg)
 
+* 2010年頃: 触（さわ）れる絵画の研究
+![「触（さわ）れる絵画の研究]({{ site.url }}/images/touch_the_arts.jpg)
+
 * 2010年頃: 青森大学ソフトウェア情報学部まちづくり工房「デジタル青森」の開発と活用
 ![「デジタル青森」の開発と活用]({{ site.url }}/images/digital_aomori.jpg)
 
