@@ -16,6 +16,9 @@ header:
 # 研究のインフォグラフィックス
 Google Geminiで試作
 
+* 2025年度: 卒業研究（LLMアプリ開発）
+![卒業研究（LLMアプリ開発）]({{ site.url }}/images/thesis_2025.jpg)
+
 * 2026年: 教育用にELIZAの日本語化と動作原理の可視化
 ![教育用にELIZAの日本語化と動作原理の可視化]({{ site.url }}/images/eliza_jp.jpg)
 
