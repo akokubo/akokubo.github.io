@@ -16,6 +16,9 @@ header:
 # 研究のインフォグラフィックス
 Google Geminiで試作
 
+* 2026年: 留学生対応多言語間チャットシステム「パダウと桜」
+![多言語間チャットシステム]({{ site.url }}/images/padauk_and_sakura.jpg)
+
 * 2025年度: 卒業研究（LLMアプリ開発）
 ![卒業研究（LLMアプリ開発）]({{ site.url }}/images/thesis_2025.jpg)
 
