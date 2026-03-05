@@ -16,6 +16,9 @@ header:
 # 研究のインフォグラフィックス
 Google Geminiで試作
 
+* 2026年: 情報処理学会全国大会「LLMを活用した特殊詐欺体験システムの開発」
+![LLMを活用した特殊詐欺体験システムの開発]({{ site.url }}/images/ipsj88_1G-03.jpg)
+
 * 2026年: 留学生対応多言語間チャットシステム「パダウと桜」
 ![多言語間チャットシステム]({{ site.url }}/images/padauk_and_sakura.jpg)
 
