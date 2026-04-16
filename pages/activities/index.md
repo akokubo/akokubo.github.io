@@ -16,6 +16,9 @@ header:
 # 研究のインフォグラフィックス
 Google Geminiで試作
 
+* 2025-2026年: ウラジミール・プロップの「昔話の形態学」に基づく物語生成システム「ProppStoryLab」
+![物語生成システム「ProppStoryLab」]({{ site.url }}/images/propp_story_lab.jpg)
+
 * 2026年: 情報処理学会全国大会「LLMを活用した特殊詐欺体験システムの開発」
 ![LLMを活用した特殊詐欺体験システムの開発]({{ site.url }}/images/ipsj88_1G-03.jpg)
 
