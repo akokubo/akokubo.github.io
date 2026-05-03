@@ -6,7 +6,7 @@ header:
     image_fullwidth: "header_unsplash_03.jpg"
 ---
 
-![ChatGPTとGeminiによる自己紹介]({{ site.url }}/images/atsushi_kokubo_card.jpg)
+![ChatGPTとGeminiによる自己紹介]({{ site.url }}/images/atsushi_kokubo_profile_card.webp)
 
 小久保 温 (こくぼ あつし) 博士(理学) / Atsushi Kokubo, Ph.D.  
 1968年(昭和43年)2月22日生
